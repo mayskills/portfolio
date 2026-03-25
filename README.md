@@ -36,7 +36,7 @@ Lycée Moderne de Rufisque (Dakar)
   - Contrôler la progression du projet par rapport au planning
 
   ### Création de synoptiques et routes optiques sur NetGeo
-  - Extraction et consolidation de données SIG (NetGeo) : export des bases de données, compilation et production de fichiers de suivi pour     le monitoring des projets réseau.
+  - Extraction et consolidation de données SIG (NetGeo) : export des bases de données, compilation et production de fichiers de suivi  pour     le monitoring des projets réseau.
   - Conception de routes optiques : étude et création de tracés fibre optimisés pour le raccordement client.
   - Intégration et mise à jour des données SIG sur NetGeo : saisie, contrôle qualité et mise à jour des entités réseau pour garantir la        fiabilité de la cartographie.
     
@@ -74,7 +74,7 @@ Lycée Moderne de Rufisque (Dakar)
 - Formation et accompagnement des nouveaux collaborateurs.
 
 ### Ingénieure de production fibre optique (CDI)
-  SAFIBRE                                             Mai 2021 - Avril 2023
+  SAFIBRE   Mai 2021 - Avril 2023
 
 - Production des dossiers routes optiques ROPs.
 - Former des collaborateurs sur QGIS, NETGEO et GOOGLE EARTH
