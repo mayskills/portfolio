@@ -52,7 +52,7 @@ Baccalauréat série S1
 
 **Ingénierie et Traitement BLO (Prestation de service)**
 
-  **NOVALINK ENGINEERING** |||||||||  (_Septembre 2024 - Novembre 2024_)
+  **NOVALINK ENGINEERING** |||||||  (_Septembre 2024 - Novembre 2024_)
 
 - Préparer et analyser les relevés terrain à l’aide de QGIS
 - Gérer la déclaration des FCI (commandes et études)
