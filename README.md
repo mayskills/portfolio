@@ -86,7 +86,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 **Chargé d’études FTTH (CDD)**
 
-  **BAOCOM** | (_Aout 2019 - Fevrier 2021_)
+  **BAOCOM** |||   (_Aout 2019 - Fevrier 2021_)
 
 - Calcul poteaux France télécom
 - Calcul poteaux Enedis
