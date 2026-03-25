@@ -51,7 +51,8 @@ Lycée Moderne de Rufisque (Dakar)
 ## Expériences Professionnelles
 
 **Ingénierie et Traitement BLO (Prestation de service)**
-  **NOVALINK ENGINEERING**                                             Septembre 2024 - Novembre 2024
+
+  **NOVALINK ENGINEERING** | (_Septembre 2024 - Novembre 2024_)
 
 - Préparer et analyser les relevés terrain à l’aide de QGIS
 - Gérer la déclaration des FCI (commandes et études)
@@ -59,7 +60,8 @@ Lycée Moderne de Rufisque (Dakar)
 - Assurer la fiabilité et la conformité des données techniques
 
 **Responsable bureau d’étude  (Prestation de service)**
-  **SAFIBRE**                                             Aout 2023 -  Décembre 2025
+
+  **SAFIBRE**  | (_Aout 2023 -  Décembre 2025_)
 
 - Conception des routes et plans de déploiement du réseau fibre optique.
 - Réalisation de schémas et synoptiques techniques.
@@ -74,7 +76,8 @@ Lycée Moderne de Rufisque (Dakar)
 - Formation et accompagnement des nouveaux collaborateurs.
 
 **Ingénieure de production fibre optique (CDI)**
-  **SAFIBRE**                                           Mai 2021 - Avril 2023
+
+  **SAFIBRE** | (_Mai 2021 - Avril 2023_)
 
 - Production des dossiers routes optiques ROPs.
 - Former des collaborateurs sur QGIS, NETGEO et GOOGLE EARTH
@@ -82,7 +85,8 @@ Lycée Moderne de Rufisque (Dakar)
 - Optimiser les moyens à mettre en œuvre, l’organisation du travail et les délais de fabrication
 
 **Chargé d’études FTTH (CDD)**
-  **BAOCOM**                                             Aout 2019 - Fevrier 2021
+
+  **BAOCOM** | (_Aout 2019 - Fevrier 2021_)
 
 - Calcul poteaux France télécom
 - Calcul poteaux Enedis
