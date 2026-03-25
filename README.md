@@ -51,11 +51,44 @@ Lycée Moderne de Rufisque (Dakar)
 ## Expériences Professionnelles
 
  ### Ingénierie et Traitement BLO (Prestation de service)
-  ### NOVALINK ENGINEERING                    ### Septembre 2024 - Novembre 2024
+  NOVALINK ENGINEERING                                             Septembre 2024 - Novembre 2024
 
 - Préparer et analyser les relevés terrain à l’aide de QGIS
 - Gérer la déclaration des FCI (commandes et études)
 - Traiter des commandes de différentes complexités (simples, massives, complexes) en réseaux aériens et souterrains
 - Assurer la fiabilité et la conformité des données techniques
+
+ ### Responsable bureau d’étude  (Prestation de service)
+  SAFIBRE                                             Aout 2023 -  Décembre 2025
+
+- Conception des routes et plans de déploiement du réseau fibre optique.
+- Réalisation de schémas et synoptiques techniques.
+- Analyse et optimisation des parcours de déploiement du réseau.
+- Mise à jour et gestion du Système d’Information Géographique.
+- Intégration des relevés terrain et des données avant-travaux.
+- Préparation et constitution des Dossiers des Ouvrages Exécutés.
+- Classement et gestion des documents techniques.
+- Participation au suivi technique des travaux.
+- Réalisation d’études techniques selon les besoins des projets.
+- Veille technique sur les évolutions du secteur de la fibre optique.
+- Formation et accompagnement des nouveaux collaborateurs.
+
+### Ingénieure de production fibre optique (CDI)
+  SAFIBRE                                             Mai 2021 - Avril 2023
+
+- Production des dossiers routes optiques ROPs.
+- Former des collaborateurs sur QGIS, NETGEO et GOOGLE EARTH
+- Synthétiser et mémoriser les informations techniques et organisationnelles
+- Optimiser les moyens à mettre en œuvre, l’organisation du travail et les délais de fabrication
+
+### Chargé d’études FTTH (CDD)
+  BAOCOM                                             Aout 2019 - Fevrier 2021
+
+- Calcul poteaux France télécom
+- Calcul poteaux Enedis
+- Réaliser des plans sur QGIS
+- Préparation et traitement des relevées terrain avec Excel
+- Réaliser la saisie des données techniques sur QGIS
+
 
     
