@@ -19,15 +19,18 @@ Lycée Moderne de Rufisque (Dakar)
 
 ## Compétences
 
-  ### Visualisation de données Excel
+### Visualisation de données Excel
+
  - Création de dashboards interactifs et de rapports synthétiques pour le suivi des performances.
  - Utilisation de graphiques, tableaux croisés dynamiques et indicateurs clés pour faciliter la prise de décision.
 
-  ### Nettoyage et structuration de données
+### Nettoyage et structuration de données
+
  - Préparation, validation et correction des données pour garantir leur cohérence et fiabilité.
  - Identification et résolution des anomalies, doublons et erreurs dans les bases de données réseau.
 
-  ### Suivi des projets 
+###  Suivi des projets 
+
   - Définir les objectifs et les livrables du projet
   - Élaborer un calendrier et un plan de travail
   - Évaluer les ressources nécessaires (humaines, matérielles, logicielles)
@@ -36,7 +39,8 @@ Lycée Moderne de Rufisque (Dakar)
   - Contrôler la progression du projet par rapport au planning
 
   ### Création de synoptiques et routes optiques sur NetGeo
-  - Extraction et consolidation de données SIG (NetGeo) : export des bases de données, compilation et production de fichiers de suivi  pour     le monitoring des projets réseau.
+  
+  - Extraction et consolidation de données SIG (NetGeo) : export des bases de données, compilation et production de fichiers de suivi pour     le monitoring des projets réseau.
   - Conception de routes optiques : étude et création de tracés fibre optimisés pour le raccordement client.
   - Intégration et mise à jour des données SIG sur NetGeo : saisie, contrôle qualité et mise à jour des entités réseau pour garantir la        fiabilité de la cartographie.
     
@@ -50,7 +54,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 ## Expériences Professionnelles
 
- ### Ingénierie et Traitement BLO (Prestation de service)
+ ###  Ingénierie et Traitement BLO (Prestation de service)
   NOVALINK ENGINEERING                                             Septembre 2024 - Novembre 2024
 
 - Préparer et analyser les relevés terrain à l’aide de QGIS
@@ -58,7 +62,7 @@ Lycée Moderne de Rufisque (Dakar)
 - Traiter des commandes de différentes complexités (simples, massives, complexes) en réseaux aériens et souterrains
 - Assurer la fiabilité et la conformité des données techniques
 
- ### Responsable bureau d’étude  (Prestation de service)
+ ###  Responsable bureau d’étude  (Prestation de service)
   SAFIBRE                                             Aout 2023 -  Décembre 2025
 
 - Conception des routes et plans de déploiement du réseau fibre optique.
@@ -73,7 +77,7 @@ Lycée Moderne de Rufisque (Dakar)
 - Veille technique sur les évolutions du secteur de la fibre optique.
 - Formation et accompagnement des nouveaux collaborateurs.
 
-### Ingénieure de production fibre optique (CDI)
+###  Ingénieure de production fibre optique (CDI)
   SAFIBRE   Mai 2021 - Avril 2023
 
 - Production des dossiers routes optiques ROPs.
@@ -81,7 +85,7 @@ Lycée Moderne de Rufisque (Dakar)
 - Synthétiser et mémoriser les informations techniques et organisationnelles
 - Optimiser les moyens à mettre en œuvre, l’organisation du travail et les délais de fabrication
 
-### Chargé d’études FTTH (CDD)
+###  Chargé d’études FTTH (CDD)
   BAOCOM                                             Aout 2019 - Fevrier 2021
 
 - Calcul poteaux France télécom
