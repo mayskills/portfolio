@@ -52,7 +52,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 **Ingénierie et Traitement BLO (Prestation de service)**
 
-  **NOVALINK ENGINEERING** | (_Septembre 2024 - Novembre 2024_)
+  **NOVALINK ENGINEERING** |               (_Septembre 2024 - Novembre 2024_)
 
 - Préparer et analyser les relevés terrain à l’aide de QGIS
 - Gérer la déclaration des FCI (commandes et études)
@@ -61,7 +61,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 **Responsable bureau d’étude  (Prestation de service)**
 
-  **SAFIBRE**  | (_Aout 2023 -  Décembre 2025_)
+  **SAFIBRE**  |                             (_Aout 2023 -  Décembre 2025_)
 
 - Conception des routes et plans de déploiement du réseau fibre optique.
 - Réalisation de schémas et synoptiques techniques.
