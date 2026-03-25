@@ -3,19 +3,19 @@
 ## Formation
 - 2024–2025
 Mastère Spécialisé en Visual Analytics et Big Data
-Tech global university
+(_Tech global university_)
 
 - 2016–2017 
 Master 1 en Réseau Sécurité et  Systèmes Distribués
-Université Gaston Berger de Saint Louis
+(_Université Gaston Berger de Saint Louis_)
 
 - 2015–2016 
 Licence en Système d’information
-Université Gaston Berger de Saint Louis
+(_Université Gaston Berger de Saint Louis_)
 
 - 2012-2013
 Baccalauréat série S1
-Lycée Moderne de Rufisque (Dakar)
+(_Lycée Moderne de Rufisque (Dakar)_)
 
 ## Compétences
 
@@ -52,7 +52,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 **Ingénierie et Traitement BLO (Prestation de service)**
 
-  **NOVALINK ENGINEERING** |               (_Septembre 2024 - Novembre 2024_)
+  **NOVALINK ENGINEERING** |||||||||  (_Septembre 2024 - Novembre 2024_)
 
 - Préparer et analyser les relevés terrain à l’aide de QGIS
 - Gérer la déclaration des FCI (commandes et études)
@@ -61,7 +61,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 **Responsable bureau d’étude  (Prestation de service)**
 
-  **SAFIBRE**  |                             (_Aout 2023 -  Décembre 2025_)
+  **SAFIBRE**  ||||||||| (_Aout 2023 -  Décembre 2025_)
 
 - Conception des routes et plans de déploiement du réseau fibre optique.
 - Réalisation de schémas et synoptiques techniques.
@@ -77,7 +77,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 **Ingénieure de production fibre optique (CDI)**
 
-  **SAFIBRE** | (_Mai 2021 - Avril 2023_)
+  **SAFIBRE** |||||||||  (_Mai 2021 - Avril 2023_)
 
 - Production des dossiers routes optiques ROPs.
 - Former des collaborateurs sur QGIS, NETGEO et GOOGLE EARTH
@@ -86,7 +86,7 @@ Lycée Moderne de Rufisque (Dakar)
 
 **Chargé d’études FTTH (CDD)**
 
-  **BAOCOM** |||||| (_Aout 2019 - Fevrier 2021_)
+  **BAOCOM** |||||||||  (_Aout 2019 - Fevrier 2021_)
 
 - Calcul poteaux France télécom
 - Calcul poteaux Enedis
