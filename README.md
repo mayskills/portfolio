@@ -1,98 +1,138 @@
-# Coordinatrice SIG /  Data analyst
+# 👩🏿‍💻 Coordinatrice SIG | Data Analyst
 
-## Formation
-- 2024–2025
-Mastère Spécialisé en Visual Analytics et Big Data
-(_Tech global university_)
+---
 
-- 2016–2017 
-Master 1 en Réseau Sécurité et  Systèmes Distribués
-(_Université Gaston Berger de Saint Louis_)
+## 👩🏿‍🎓 Formation
 
-- 2015–2016 
-Licence en Système d’information
-(_Université Gaston Berger de Saint Louis_)
+**2024 – 2025**  
+🎓 Mastère Spécialisé en Visual Analytics & Big Data  
+_Tech Global University_
 
-- 2012-2013
-Baccalauréat série S1
-(_Lycée Moderne de Rufisque (Dakar)_)
+**2016 – 2017**  
+🎓 Master 1 Réseaux, Sécurité & Systèmes Distribués  
+_Université Gaston Berger – Saint-Louis_
 
-## Compétences
+**2015 – 2016**  
+🎓 Licence en Systèmes d’Information  
+_Université Gaston Berger – Saint-Louis_
 
-**Visualisation de données Excel**
- - Création de dashboards interactifs et de rapports synthétiques pour le suivi des performances.
- - Utilisation de graphiques, tableaux croisés dynamiques et indicateurs clés pour faciliter la prise de décision.
+**2012 – 2013**  
+🎓 Baccalauréat Série S1  
+_Lycée Moderne de Rufisque (Dakar)_
 
-**Nettoyage et structuration de données**
- - Préparation, validation et correction des données pour garantir leur cohérence et fiabilité.
- - Identification et résolution des anomalies, doublons et erreurs dans les bases de données réseau.
+---
 
-**Suivi des projets**
-  - Définir les objectifs et les livrables du projet
-  - Élaborer un calendrier et un plan de travail
-  - Évaluer les ressources nécessaires (humaines, matérielles, logicielles)
-  - Vérification de la qualité des données
-  - Organisation de réunions de suivi
-  - Contrôler la progression du projet par rapport au planning
+## 🧾 Compétences
 
-**Création de synoptiques et routes optiques sur NetGeo**
-  - Extraction et consolidation de données SIG (NetGeo) : export des bases de données, compilation et production de fichiers de suivi pour     le monitoring des projets réseau.
-  - Conception de routes optiques : étude et création de tracés fibre optimisés pour le raccordement client.
-  - Intégration et mise à jour des données SIG sur NetGeo : saisie, contrôle qualité et mise à jour des entités réseau pour garantir la        fiabilité de la cartographie.
-    
- **Suivi des DFT sur le portail Orange**
-  - Gestion complète des demandes via le portail Orange.
-  - Déclaration et suivi des commandes simple, complexe et accompagnement pour assurer le bon déroulement des travaux sur le terrain.
-    
- **Traitement des mesures Fibercable2**
-  - Analyse et exploitation des dossiers de mesures pour vérfier l’état d’un lien
-  - Production de rapports détaillés et indicateurs de performance pour le pilotage opérationnel.
+### 📊 Data Analysis & Visualisation
+- Création de **dashboards interactifs sous Excel**
+- Analyse de données et production d’indicateurs de performance (KPI)
+- Utilisation de **tableaux croisés dynamiques** et graphiques avancés
+- Aide à la prise de décision via la visualisation
 
-## Expériences Professionnelles
+---
 
-**Ingénierie et Traitement BLO (Prestation de service)**
+### 🧹 Data Cleaning & Data Quality
+- Nettoyage, structuration et validation des données
+- Détection et correction des **doublons, incohérences et anomalies**
+- Fiabilisation des bases de données techniques (réseaux télécom)
 
-  **NOVALINK ENGINEERING** ||| (_Septembre 2024 - Novembre 2024_)
+---
 
-- Préparer et analyser les relevés terrain à l’aide de QGIS
-- Gérer la déclaration des FCI (commandes et études)
-- Traiter des commandes de différentes complexités (simples, massives, complexes) en réseaux aériens et souterrains
-- Assurer la fiabilité et la conformité des données techniques
+### 📡 SIG & Réseaux Télécom
+- Conception de **routes optiques (FTTH)**
+- Création de synoptiques réseau (NetGeo)
+- Intégration et mise à jour des données SIG
+- Exploitation des données terrain pour le déploiement fibre
 
-**Responsable bureau d’étude  (Prestation de service)**
+---
 
-  **SAFIBRE**  ||||||||| (_Aout 2023 -  Décembre 2025_)
+### 📈 Gestion de Projet
+- Définition des objectifs et des livrables
+- Planification et suivi des projets
+- Coordination des ressources (humaines et techniques)
+- Suivi des performances et respect des délais
 
-- Conception des routes et plans de déploiement du réseau fibre optique.
-- Réalisation de schémas et synoptiques techniques.
-- Analyse et optimisation des parcours de déploiement du réseau.
-- Mise à jour et gestion du Système d’Information Géographique.
-- Intégration des relevés terrain et des données avant-travaux.
-- Préparation et constitution des Dossiers des Ouvrages Exécutés.
-- Classement et gestion des documents techniques.
-- Participation au suivi technique des travaux.
-- Réalisation d’études techniques selon les besoins des projets.
-- Veille technique sur les évolutions du secteur de la fibre optique.
-- Formation et accompagnement des nouveaux collaborateurs.
+---
 
-**Ingénieure de production fibre optique (CDI)**
+### 🛠️ Outils & Technologies
+- Excel (avancé)
+- SQL (PostgreSQL)
+- QGIS / NetGeo
+- Visual Studio Code
+- Google Earth
 
-  **SAFIBRE** |||||||||  (_Mai 2021 - Avril 2023_)
+---
 
-- Production des dossiers routes optiques ROPs.
-- Former des collaborateurs sur QGIS, NETGEO et GOOGLE EARTH
-- Synthétiser et mémoriser les informations techniques et organisationnelles
-- Optimiser les moyens à mettre en œuvre, l’organisation du travail et les délais de fabrication
+## 🦾 Expériences Professionnelles
 
-**Chargé d’études FTTH (CDD)**
+### 🏢 NOVALINK ENGINEERING  
+**Ingénierie et Traitement BLO (Prestation)**  
+_Septembre 2024 – Novembre 2024_
 
-  **BAOCOM** |||||||||  (_Aout 2019 - Fevrier 2021_)
+- Analyse des relevés terrain avec QGIS  
+- Gestion des déclarations FCI (commandes & études)  
+- Traitement de commandes réseau (simple à complexe)  
+- Contrôle qualité des données techniques  
 
-- Calcul poteaux France télécom
-- Calcul poteaux Enedis
-- Réaliser des plans sur QGIS
-- Préparation et traitement des relevées terrain avec Excel
-- Réaliser la saisie des données techniques sur QGIS
+---
 
+### 🏢 SAFIBRE  
+**Responsable Bureau d’Études (Prestation)**  
+_Août 2023 – Décembre 2025_
+
+- Conception des routes et plans de déploiement fibre  
+- Réalisation de schémas et synoptiques techniques  
+- Optimisation des parcours réseau  
+- Gestion et mise à jour du SIG  
+- Suivi technique des projets et des travaux  
+- Formation et accompagnement des équipes  
+
+---
+
+### 🏢 SAFIBRE  
+**Ingénieure de Production Fibre Optique (CDI)**  
+_Mai 2021 – Avril 2023_
+
+- Production des dossiers routes optiques (ROP)  
+- Formation sur QGIS, NetGeo et Google Earth  
+- Optimisation des processus de production  
+- Organisation et gestion des délais  
+
+---
+
+### 🏢 BAOCOM  
+**Chargée d’Études FTTH (CDD)**  
+_Août 2019 – Février 2021_
+
+- Calculs poteaux (France Télécom / Enedis)  
+- Réalisation de plans sur QGIS  
+- Traitement des relevés terrain (Excel)  
+- Saisie et structuration des données techniques  
+
+---
+
+## 🚀 Projets
+
+### 📊 Planification Capacitaire Projet Télécom - Sénégal
+
+Analyse de la charge des équipes télécom afin de :
+- Détecter les **sur-allocations (>100%)**
+- Identifier les conflits de planning
+- Optimiser l’utilisation des ressources
+
+🔗 [Voir le projet sur GitHub](https://github.com/ton-username/Planification-Capacitaire-Projet-Telecom-SN)
+
+---
+
+## 📬 Contact
+
+📧 Email : [mounas286@gmail.com](mailto:mounas286@gmail.com)
+
+---
+
+## ⭐ Objectif
+
+Mettre mes compétences en **data analysis, SIG et télécom** au service de projets à forte valeur ajoutée, en combinant **analyse de données** et **expertise métier terrain**.
 
     
