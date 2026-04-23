@@ -120,6 +120,8 @@ Analyse de la charge des équipes télécom afin de :
 - Détecter les **sur-allocations (>100%)**
 - Identifier les conflits de planning
 - Optimiser l’utilisation des ressources
+  
+  🔗 [Voir le projet](https://mayskills.github.io/Planification-Projet-Telecom/)
 
 ---
 
