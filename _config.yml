@@ -1,3 +1,13 @@
 title: Maimouna Diakhaté
 logo : image/profil.png
 theme: jekyll-theme-minimal
+
+description: >
+  Data Analyst | SQL | Excel | Power BI | Tableau | kobotoolbox
+  Passionnée par l’analyse de données et l’optimisation des processus métier.
+
+# 👇 Ajout d’une section projets
+projects:
+  - name: Planification Capacitaire Projet Télécom - Sénégal
+    description: Analyse de la charge des équipes télécom, détection des sur-allocations et optimisation des ressources.
+    link: https://github.com/ton-username/Planification-Capacitaire-Projet-Telecom-SN
