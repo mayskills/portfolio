@@ -121,18 +121,10 @@ Analyse de la charge des équipes télécom afin de :
 - Identifier les conflits de planning
 - Optimiser l’utilisation des ressources
 
-🔗 [Voir le projet sur GitHub](https://github.com/ton-username/Planification-Capacitaire-Projet-Telecom-SN)
-
 ---
 
 ## 📬 Contact
 
 📧 Email : [mounas286@gmail.com](mailto:mounas286@gmail.com)
-
----
-
-## ⭐ Objectif
-
-Mettre mes compétences en **data analysis, SIG et télécom** au service de projets à forte valeur ajoutée, en combinant **analyse de données** et **expertise métier terrain**.
 
     
