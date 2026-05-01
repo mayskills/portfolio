@@ -123,6 +123,16 @@ Analyse de la charge des équipes télécom afin de :
   
   🔗 [Voir le projet](https://mayskills.github.io/Planification-Projet-Telecom/)
 
+### 📊 Pilotage PMO – Capacité & Performance Projets - Power BI
+
+Objectif : piloter la performance financière
+ - Budget vs charge consommée
+ - Répartition des coûts par client
+ - Jauge de consommation budgétaire
+ - Analyse des ressources mobilisées
+  
+  🔗 [Voir le projet](https://mayskills.github.io/Power-BI/)
+
 ---
 
 ## 📬 Contact
