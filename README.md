@@ -32,7 +32,7 @@ _Lycée Moderne de Rufisque (Dakar)_
 
 ---
 
-### 🧹 Data Cleaning & Data Quality
+### 🧹 Nettoyage et qualité des données
 - Nettoyage, structuration et validation des données
 - Détection et correction des **doublons, incohérences et anomalies**
 - Fiabilisation des bases de données techniques (réseaux télécom)
@@ -40,7 +40,7 @@ _Lycée Moderne de Rufisque (Dakar)_
 ---
 
 ### 📡 SIG & Réseaux Télécom
-- Conception de **routes optiques (FTTH)**
+- Conception de **routes optiques (FTTX)**
 - Création de synoptiques réseau (NetGeo)
 - Intégration et mise à jour des données SIG
 - Exploitation des données terrain pour le déploiement fibre
@@ -56,11 +56,11 @@ _Lycée Moderne de Rufisque (Dakar)_
 ---
 
 ### 🛠️ Outils & Technologies
-- Excel (avancé)
-- SQL (PostgreSQL)
-- QGIS / NetGeo
-- Visual Studio Code
-- Google Earth
+- Data & BI : Excel (avancé), Google Sheets, Power BI
+- Bases de données : SQL (PostgreSQL, MySQL, SQL*Plus)
+- SIG & cartographie : QGIS, NetGeo, Google Earth
+- Développement : Visual Studio Code
+- Collecte de données : KoboToolbox, XLSX Editor Plus, Google Forms
 
 ---
 
