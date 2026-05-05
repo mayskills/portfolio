@@ -131,6 +131,16 @@ Analyse de la charge des équipes télécom afin de :
 - Pilotage de la charge et allocation des ressources
   
     🔗 [Voir le projet](https://mayskills.github.io/Power-BI/)
+  
+  ### 📊 Enquête de satisfaction employé (KoboToolbox / XLSForm / Enketo)
+
+- Conception et déploiement d’une enquête de satisfaction employé
+- Structuration du formulaire via le standard XLSForm
+- Mise en place de contrôles de qualité des données
+- Implémentation de logique conditionnelle pour adapter dynamiquement le questionnaire
+- Intégration d’un système de scoring pour classer les niveaux de satisfaction
+  
+    🔗 [Voir le projet](https://mayskills.github.io/kobotoolbox/)
 
 ---
 
