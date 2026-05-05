@@ -132,7 +132,8 @@ Analyse de la charge des équipes télécom afin de :
   
     🔗 [Voir le projet](https://mayskills.github.io/Power-BI/)
   
-  ### 📊 Enquête de satisfaction employé (KoboToolbox / XLSForm / Enketo)
+  
+ ### 📊 Enquête de satisfaction employé (KoboToolbox / XLSForm / Enketo)
 
 - Conception et déploiement d’une enquête de satisfaction employé
 - Structuration du formulaire via le standard XLSForm
