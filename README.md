@@ -101,7 +101,7 @@ _Mai 2021 – Avril 2023_
 
 ---
 
-### 🏢 BAOCOM  
+### 🏢 TELOPHASE SASU  
 **Chargée d’Études FTTH (CDD)**  
 _Août 2019 – Février 2021_
 
