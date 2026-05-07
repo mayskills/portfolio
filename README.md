@@ -103,7 +103,7 @@ _Mai 2021 – Avril 2023_
 
 ### 🏢 TELOPHASE SASU  
 **Chargée d’Études FTTH (CDD)**  
-_Août 2019 – Février 2021_
+_Août 2019 – Avril 2021_
 
 - Calculs poteaux (France Télécom / Enedis)  
 - Réalisation de plans sur QGIS  
